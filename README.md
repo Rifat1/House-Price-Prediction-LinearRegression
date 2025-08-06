@@ -22,7 +22,8 @@ Python, pandas, seaborn, scikit-learn
 
 ---
 
-### 📊 Outcomes
+### Outcomes
 
 - Achieved **R² score of ~0.85** on the test dataset
 - Delivered an **interpretable model** with feature importance analysis
+<img width="943" height="547" alt="output" src="https://github.com/user-attachments/assets/954aed88-3361-4078-ac10-0404e258e150" />
